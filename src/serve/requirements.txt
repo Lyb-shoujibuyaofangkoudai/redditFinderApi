@@ -1,0 +1,19 @@
+# FastAPI服务依赖
+fastapi>=0.95.0
+uvicorn>=0.22.0
+pydantic>=1.10.7
+starlette>=0.27.0
+python-dotenv>=1.0.0
+asyncio>=3.4.3
+aiofiles>=23.1.0
+python-multipart>=0.0.6
+requests>=2.28.2
+
+# 已在项目中使用的依赖
+# 这些依赖在项目的pyproject.toml中已经定义，这里列出是为了确保版本兼容
+colorama>=0.4.6
+matplotlib>=3.7.1
+numpy>=1.24.3
+pandas>=2.0.1
+praw>=7.7.0
+rich>=13.3.5

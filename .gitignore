@@ -1,0 +1,28 @@
+# Editor-specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+logs/
+
+test/
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+.env.local
+
+# Test coverage
+.coverage
+.xml
+
+# pytest cache
+.pytest_cache/
+
+# macOS system files
+.DS_Store
+
