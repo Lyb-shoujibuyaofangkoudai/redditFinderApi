@@ -75,3 +75,8 @@ trends = finder.analyze_trends(trending_posts)
 insights = finder.generate_content_insights(trending_posts)
 
 ```
+
+
+## 其他
+1. 本项目目前只是一个demo，切勿用在商业用途。
+2. 项目可能存在一些不合理的地方，如专业分析帖子时的一些算法不符合实际或参考价值不是很大。
